@@ -1,0 +1,16 @@
+c:\users\administrator\documents\visual studio 2010\Projects\SEEDALLCardPrinter\SEEDALLCardPrinter\bin\Debug\SEEDALLCardPrinter.exe
+c:\users\administrator\documents\visual studio 2010\Projects\SEEDALLCardPrinter\SEEDALLCardPrinter\bin\Debug\SEEDALLCardPrinter.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\SEEDALLCardPrinter\SEEDALLCardPrinter\obj\x86\Debug\SEEDALLCardPrinter.SEEDALLCardPrinter.resources
+c:\users\administrator\documents\visual studio 2010\Projects\SEEDALLCardPrinter\SEEDALLCardPrinter\obj\x86\Debug\SEEDALLCardPrinter.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\SEEDALLCardPrinter\SEEDALLCardPrinter\obj\x86\Debug\SEEDALLCardPrinter.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2010\Projects\SEEDALLCardPrinter\SEEDALLCardPrinter\obj\x86\Debug\SEEDALLCardPrinter.exe
+c:\users\administrator\documents\visual studio 2010\Projects\SEEDALLCardPrinter\SEEDALLCardPrinter\obj\x86\Debug\SEEDALLCardPrinter.pdb
+C:\Users\Administrator\Desktop\C# 源代码\SEEDALLCardPrinter\SEEDALLCardPrinter\bin\Debug\SEEDALLCardPrinter.exe.config
+C:\Users\Administrator\Desktop\C# 源代码\SEEDALLCardPrinter\SEEDALLCardPrinter\obj\x86\Debug\SEEDALLCardPrinter.exe
+C:\Users\Administrator\Desktop\C# 源代码\SEEDALLCardPrinter\SEEDALLCardPrinter\obj\x86\Debug\SEEDALLCardPrinter.pdb
+C:\Users\Administrator\Desktop\C# 源代码\SEEDALLCardPrinter\SEEDALLCardPrinter\bin\Debug\SEEDALLCardPrinter.exe
+C:\Users\Administrator\Desktop\C# 源代码\SEEDALLCardPrinter\SEEDALLCardPrinter\bin\Debug\SEEDALLCardPrinter.pdb
+C:\Users\Administrator\Desktop\C# 源代码\SEEDALLCardPrinter\SEEDALLCardPrinter\obj\x86\Debug\SEEDALLCardPrinter.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C# 源代码\SEEDALLCardPrinter\SEEDALLCardPrinter\obj\x86\Debug\SEEDALLCardPrinter.SEEDALLCardPrinter.resources
+C:\Users\Administrator\Desktop\C# 源代码\SEEDALLCardPrinter\SEEDALLCardPrinter\obj\x86\Debug\SEEDALLCardPrinter.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C# 源代码\SEEDALLCardPrinter\SEEDALLCardPrinter\obj\x86\Debug\SEEDALLCardPrinter.csproj.GenerateResource.Cache
