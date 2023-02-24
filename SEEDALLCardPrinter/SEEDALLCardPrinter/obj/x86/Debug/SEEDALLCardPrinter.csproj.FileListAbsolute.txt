@@ -14,3 +14,13 @@ C:\Users\Administrator\Desktop\C# 源代码\SEEDALLCardPrinter\SEEDALLCardPrinte
 C:\Users\Administrator\Desktop\C# 源代码\SEEDALLCardPrinter\SEEDALLCardPrinter\obj\x86\Debug\SEEDALLCardPrinter.SEEDALLCardPrinter.resources
 C:\Users\Administrator\Desktop\C# 源代码\SEEDALLCardPrinter\SEEDALLCardPrinter\obj\x86\Debug\SEEDALLCardPrinter.Properties.Resources.resources
 C:\Users\Administrator\Desktop\C# 源代码\SEEDALLCardPrinter\SEEDALLCardPrinter\obj\x86\Debug\SEEDALLCardPrinter.csproj.GenerateResource.Cache
+F:\work\SEEDALLCardPrinter\SEEDALLCardPrinter\bin\Debug\SEEDALLCardPrinter.exe.config
+F:\work\SEEDALLCardPrinter\SEEDALLCardPrinter\bin\Debug\SEEDALLCardPrinter.exe
+F:\work\SEEDALLCardPrinter\SEEDALLCardPrinter\bin\Debug\SEEDALLCardPrinter.pdb
+F:\work\SEEDALLCardPrinter\SEEDALLCardPrinter\obj\x86\Debug\SEEDALLCardPrinter.csproj.AssemblyReference.cache
+F:\work\SEEDALLCardPrinter\SEEDALLCardPrinter\obj\x86\Debug\SEEDALLCardPrinter.SEEDALLCardPrinter.resources
+F:\work\SEEDALLCardPrinter\SEEDALLCardPrinter\obj\x86\Debug\SEEDALLCardPrinter.Properties.Resources.resources
+F:\work\SEEDALLCardPrinter\SEEDALLCardPrinter\obj\x86\Debug\SEEDALLCardPrinter.csproj.GenerateResource.cache
+F:\work\SEEDALLCardPrinter\SEEDALLCardPrinter\obj\x86\Debug\SEEDALLCardPrinter.csproj.CoreCompileInputs.cache
+F:\work\SEEDALLCardPrinter\SEEDALLCardPrinter\obj\x86\Debug\SEEDALLCardPrinter.exe
+F:\work\SEEDALLCardPrinter\SEEDALLCardPrinter\obj\x86\Debug\SEEDALLCardPrinter.pdb
